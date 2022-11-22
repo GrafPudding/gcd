@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RomaNov\\source\\repos\\gcd\\GcdTask\\GcdTask.csproj": {}
+    "C:\\Users\\RomaNov\\source\\repos\\gcd-version-2\\Gcd\\Gcd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RomaNov\\source\\repos\\gcd\\GcdTask\\GcdTask.csproj": {
+    "C:\\Users\\RomaNov\\source\\repos\\gcd-version-2\\Gcd\\Gcd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RomaNov\\source\\repos\\gcd\\GcdTask\\GcdTask.csproj",
-        "projectName": "GcdTask",
-        "projectPath": "C:\\Users\\RomaNov\\source\\repos\\gcd\\GcdTask\\GcdTask.csproj",
+        "projectUniqueName": "C:\\Users\\RomaNov\\source\\repos\\gcd-version-2\\Gcd\\Gcd.csproj",
+        "projectName": "Gcd",
+        "projectPath": "C:\\Users\\RomaNov\\source\\repos\\gcd-version-2\\Gcd\\Gcd.csproj",
         "packagesPath": "C:\\Users\\RomaNov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RomaNov\\source\\repos\\gcd\\GcdTask\\obj\\",
+        "outputPath": "C:\\Users\\RomaNov\\source\\repos\\gcd-version-2\\Gcd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RomaNov\\AppData\\Roaming\\NuGet\\NuGet.Config",

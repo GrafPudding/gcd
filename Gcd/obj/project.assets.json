@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RomaNov\\Source\\Repos\\gcd\\GcdTask\\GcdTask.csproj",
-      "projectName": "GcdTask",
-      "projectPath": "C:\\Users\\RomaNov\\Source\\Repos\\gcd\\GcdTask\\GcdTask.csproj",
+      "projectUniqueName": "C:\\Users\\RomaNov\\Source\\Repos\\gcd-version-2\\Gcd\\Gcd.csproj",
+      "projectName": "Gcd",
+      "projectPath": "C:\\Users\\RomaNov\\Source\\Repos\\gcd-version-2\\Gcd\\Gcd.csproj",
       "packagesPath": "C:\\Users\\RomaNov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RomaNov\\Source\\Repos\\gcd\\GcdTask\\obj\\",
+      "outputPath": "C:\\Users\\RomaNov\\Source\\Repos\\gcd-version-2\\Gcd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RomaNov\\AppData\\Roaming\\NuGet\\NuGet.Config",

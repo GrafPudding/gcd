@@ -1,0 +1,10 @@
+C:\Users\RomaNov\Source\Repos\gcd-version-2\Gcd\bin\Debug\netcoreapp3.1\Gcd.deps.json
+C:\Users\RomaNov\Source\Repos\gcd-version-2\Gcd\bin\Debug\netcoreapp3.1\Gcd.dll
+C:\Users\RomaNov\Source\Repos\gcd-version-2\Gcd\bin\Debug\netcoreapp3.1\Gcd.pdb
+C:\Users\RomaNov\Source\Repos\gcd-version-2\Gcd\obj\Debug\netcoreapp3.1\Gcd.csproj.AssemblyReference.cache
+C:\Users\RomaNov\Source\Repos\gcd-version-2\Gcd\obj\Debug\netcoreapp3.1\Gcd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RomaNov\Source\Repos\gcd-version-2\Gcd\obj\Debug\netcoreapp3.1\Gcd.AssemblyInfoInputs.cache
+C:\Users\RomaNov\Source\Repos\gcd-version-2\Gcd\obj\Debug\netcoreapp3.1\Gcd.AssemblyInfo.cs
+C:\Users\RomaNov\Source\Repos\gcd-version-2\Gcd\obj\Debug\netcoreapp3.1\Gcd.csproj.CoreCompileInputs.cache
+C:\Users\RomaNov\Source\Repos\gcd-version-2\Gcd\obj\Debug\netcoreapp3.1\Gcd.dll
+C:\Users\RomaNov\Source\Repos\gcd-version-2\Gcd\obj\Debug\netcoreapp3.1\Gcd.pdb

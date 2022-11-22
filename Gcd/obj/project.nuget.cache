@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TphNK972CHueaXcMkS8CBEOzBEk89jLx0CBiAlJzwhZwwiFn8blTvJ9NW8HGsL7/F9wjrSDw8VSUZyc99ciPpg==",
+  "dgSpecHash": "66t5QY31Vs/IioJbstfe4J+6ykFt4FhJTgSdr2nXUYeUpYKPxoaKSH4Siw3O+o5KRcqVNKdLEspbmmPjZmyhrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RomaNov\\source\\repos\\gcd\\GcdTask\\GcdTask.csproj",
+  "projectFilePath": "C:\\Users\\RomaNov\\source\\repos\\gcd-version-2\\Gcd\\Gcd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RomaNov\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.0.0\\microsoft.codeanalysis.fxcopanalyzers.3.0.0.nupkg.sha512",
     "C:\\Users\\RomaNov\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
